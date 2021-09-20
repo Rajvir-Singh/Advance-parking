@@ -5,3 +5,8 @@ Flow Chart Of Methodology-
 
 
 ![Capture](https://user-images.githubusercontent.com/46292428/133963208-9059b940-1e31-4b55-b106-d1c99c72c262.PNG)
+
+I/O Screenshots-
+
+![image](https://user-images.githubusercontent.com/46292428/133964013-19cdd9fa-60cf-4631-aca1-e0351060f7e9.png)
+
